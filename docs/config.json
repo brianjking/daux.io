@@ -1,7 +1,7 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Justin Walsh",   
+    "title": "DockDogs - Neova Documentation - Daux.io",
+    "tagline": "Because people are stupid",
+    "author": "Brian J King",   
     "image": "<base_url>img/app.png",
     "theme": "daux-blue",
     "template": "default",
@@ -10,9 +10,9 @@
     "breadcrumbs": true,
     "breadcrumb_separator": "Chevrons",
     "date_modified": true,
-    "float": true,
+    "float": false,
     "file_editor": false,   
-    "repo": "justinwalsh/daux.io",
+    "repo": "brianjking/dockdogs-neova-daux",
     "ignore": {
             "files": ["Work_In_Progress.md"],
             "folders": ["99_Not_Ready"]
